@@ -8,7 +8,20 @@
 .pg-output button:hover{background:#218838;transform:translateY(-1px)}
 .pg-output button.copied{background:#17a2b8}
 .pg-options label{display:block;margin-bottom:8px;font-size:14px}
-.generate-btn{width:100%;padding:10px;background:#007bff;color:#fff;border:none;font-size:16px;font-weight:700;border-radius:5px;cursor:pointer}
+.generate-btn{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+  width:100%;
+              padding:10px 0;
+              background:#007bff;
+              color:#fff;
+              border:none;
+              font-size:16px;
+              font-weight:700;
+              border-radius:5px;
+              cursor:pointer}
 .generate-btn:hover{background:#0056b3}
 .note{text-align:center;font-size:12px;color:#666;margin-top:10px}
 </style>
