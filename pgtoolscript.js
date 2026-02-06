@@ -1,4 +1,4 @@
-<script>
+
 /*Password Generator Script
 Created for commercial use.
 Resale or redistribution prohibited.*/
@@ -44,4 +44,4 @@ function copyPassword() {
   copyBtn.textContent = "Copied!";
   setTimeout(() => copyBtn.textContent = "Copy", 2500);
 }
-</script>
+
