@@ -1,9 +1,3 @@
-
-alert("JS file link ho chuki hai!");
-/*Password Generator Script
-Created for commercial use.
-Resale or redistribution prohibited.*/
-
 const passwordField = document.getElementById("password");
 const lengthField = document.getElementById("length");
 const uppercase = document.getElementById("uppercase");
