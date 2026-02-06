@@ -1,4 +1,4 @@
-
+alert("JS file link ho chuki hai!");
 /*Password Generator Script
 Created for commercial use.
 Resale or redistribution prohibited.*/
