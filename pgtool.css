@@ -8,14 +8,8 @@
 .pg-output button:hover{background:#218838;transform:translateY(-1px)}
 .pg-output button.copied{background:#17a2b8}
 .pg-options label{display:block;margin-bottom:8px;font-size:14px}
-.generate-btn{
-  display: block !important;
-  justify-content: center !important;
-  align-items: center !important;
-  text-align: center !important;
-  width:100%;
+.generate-btn{width:100%;
               padding:10px 0;
-  margin: 10px auto !important;
               background:#007bff;
               color:#fff;
               border:none;
